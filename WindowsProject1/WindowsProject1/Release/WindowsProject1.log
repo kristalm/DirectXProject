@@ -1,0 +1,136 @@
+﻿  ambient_light_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\ambient_light_stuff.cpp(162): warning C4316: 'GraphicsProj::light_stuff': object allocated on the heap may not be aligned 16
+  basic_shader_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+  bitmap_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+  camera_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+  cube_map_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+  depth_shader_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+  directx_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.cpp(53): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.cpp(54): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.cpp(75): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.cpp(76): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+  graphics_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\graphics_stuff.cpp(78): warning C4316: 'GraphicsProj::directx_stuff': object allocated on the heap may not be aligned 16
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\graphics_stuff.cpp(82): warning C4316: 'GraphicsProj::camera_stuff': object allocated on the heap may not be aligned 16
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\graphics_stuff.cpp(140): warning C4316: 'GraphicsProj::render_2_texture_stuff': object allocated on the heap may not be aligned 16
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\graphics_stuff.cpp(221): warning C4552: '!=': result of expression not used
+  instance_shader_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\instance_shader_stuff.cpp(165): warning C4316: 'GraphicsProj::light_stuff': object allocated on the heap may not be aligned 16
+  light_shader_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\light_shader_stuff.cpp(162): warning C4316: 'GraphicsProj::light_stuff': object allocated on the heap may not be aligned 16
+  light_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+  loader_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\loader_stuff.cpp(112): warning C4018: '<': signed/unsigned mismatch
+  model_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\model_stuff.cpp(285): warning C4018: '<': signed/unsigned mismatch
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\model_stuff.cpp(415): warning C4018: '<': signed/unsigned mismatch
+  multi_texture_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+  position_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+  render_2_texture_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+  shadow_map_shader_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\shadow_map_shader_stuff.cpp(177): warning C4316: 'GraphicsProj::light_stuff': object allocated on the heap may not be aligned 16
+  shadow_shader_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+  source.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\source.cpp(59): warning C4838: conversion from 'float' to 'LONG' requires a narrowing conversion
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\source.cpp(59): warning C4244: 'initializing': conversion from 'float' to 'LONG', possible loss of data
+  specular_lighting_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\specular_lighting_stuff.cpp(184): warning C4316: 'GraphicsProj::light_stuff': object allocated on the heap may not be aligned 16
+  Compiling...
+  spotlight2_shader_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\spotlight2_shader_stuff.cpp(158): warning C4316: 'GraphicsProj::light_stuff': object allocated on the heap may not be aligned 16
+  spotlight_shader_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\spotlight_shader_stuff.cpp(188): warning C4316: 'GraphicsProj::light_stuff': object allocated on the heap may not be aligned 16
+  texture_shader_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '|': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): error C2010: '_': unexpected in macro parameter list
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\directx_stuff.h(13): warning C4005: '_CrtSetDbgFlag': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h(145): note: see previous definition of '_CrtSetDbgFlag'

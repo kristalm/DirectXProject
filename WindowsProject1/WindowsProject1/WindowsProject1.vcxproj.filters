@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="ambient_light.hlsl">
+      <Filter>Header Files</Filter>
+    </FxCompile>
+    <FxCompile Include="basic_shader.hlsl">
+      <Filter>Header Files</Filter>
+    </FxCompile>
+    <FxCompile Include="cubemap_shader.hlsl">
+      <Filter>Header Files</Filter>
+    </FxCompile>
+    <FxCompile Include="depth_shader.hlsl">
+      <Filter>Header Files</Filter>
+    </FxCompile>
+    <FxCompile Include="instance_shader.hlsl">
+      <Filter>Header Files</Filter>
+    </FxCompile>
+    <FxCompile Include="light_shader.hlsl">
+      <Filter>Header Files</Filter>
+    </FxCompile>
+    <FxCompile Include="multi_texture_shader.hlsl">
+      <Filter>Header Files</Filter>
+    </FxCompile>
+    <FxCompile Include="shadow_map_shader.hlsl">
+      <Filter>Header Files</Filter>
+    </FxCompile>
+    <FxCompile Include="shadow_shader.hlsl">
+      <Filter>Header Files</Filter>
+    </FxCompile>
+    <FxCompile Include="specular_lighting.hlsl">
+      <Filter>Header Files</Filter>
+    </FxCompile>
+    <FxCompile Include="spotlight_shader.hlsl">
+      <Filter>Header Files</Filter>
+    </FxCompile>
+    <FxCompile Include="spotlight2_shader.hlsl">
+      <Filter>Header Files</Filter>
+    </FxCompile>
+    <FxCompile Include="texture_shader.hlsl">
+      <Filter>Header Files</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ambient_light_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="basic_shader_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bitmap_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="camera_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cube_map_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DDSTextureLoader.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="defines.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="depth_shader_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="directx_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graphics_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="instance_shader_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="light_shader_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="light_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="loader_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="model_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="multi_texture_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="position_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="render_2_texture_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="shadow_map_shader_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="shadow_shader_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="specular_lighting_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="spotlight_shader_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="spotlight2_shader_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="texture_shader_stuff.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ambient_light_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="basic_shader_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bitmap_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="camera_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cube_map_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DDSTextureLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="defines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="depth_shader_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="directx_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectXMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="graphics_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="instance_shader_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="light_shader_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="light_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="loader_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="model_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="multi_texture_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="position_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="render_2_texture_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shadow_map_shader_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shadow_shader_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="specular_lighting_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="spotlight_shader_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="spotlight2_shader_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="texture_shader_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="cube_map_shader.txt">
+      <Filter>Header Files</Filter>
+    </Text>
+    <Text Include="shader-error.txt">
+      <Filter>Header Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Project14.vcxproj">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Project14.vcxproj.filters">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Project14.vcxproj.user">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

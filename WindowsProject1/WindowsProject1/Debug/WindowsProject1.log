@@ -1,0 +1,4 @@
+﻿  spotlight_shader_stuff.cpp
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\spotlight_shader_stuff.cpp(107): warning C4101: 'light_pos_desc': unreferenced local variable
+C:\Users\simpl\source\repos\WindowsProject1\WindowsProject1\spotlight_shader_stuff.cpp(188): warning C4316: 'GraphicsProj::light_stuff': object allocated on the heap may not be aligned 16
+  WindowsProject1.vcxproj -> C:\Users\simpl\source\repos\WindowsProject1\Debug\WindowsProject1.exe
